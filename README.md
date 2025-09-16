@@ -5,7 +5,6 @@ Smart India Hackathon 2025 project on ' Digital Tip System For Hospitality Emplo
 This project aims to develop a Digital Tip System for hospitality employees…
 
 # 🎯 Problem Statement  
-Problem Statement Title : Student Innovation
 Problem Statement ID: 25132  
 Theme: Miscellaneous  
 Category: Software  
