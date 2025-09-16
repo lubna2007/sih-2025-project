@@ -6,7 +6,7 @@ This project aims to develop a Digital Tip System for hospitality employees…
 
 # 🎯 Problem Statement  
 Problem Statement ID: 25132  
-Problem Statement Title : Student Innovation
+Problem Statement Title: Student Innovation
 Theme: Miscellaneous  
 Category: Software  
 
