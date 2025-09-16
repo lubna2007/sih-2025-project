@@ -38,4 +38,4 @@ Our proposed solution is to develop a *Digital Tip System* that allows customers
 - Real-Time: WebSocket for notifications  
 - Deployment: Vercel, GitHub  
 - Future Implementation: Flutter / React Native
--  
+  
