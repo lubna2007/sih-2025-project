@@ -2,21 +2,22 @@
 Smart India Hackathon 2025 project on ' Digital Tip System For Hospitality Employees ' 
 
 # Table of Contents
-1. [Team](#team)
-2. [Overview](#overview)
-3. [Problem Statement](#problem-statement)
+1. [Overview](#overview)
+2. [Problem Statement](#problem-statement)
+3. [Team](#team)
 4. [Key Features](#key-features)
-5. [Benefits](#benefits)
-6. [Architecture](#architecture)
-7. [Technology Stack](#technology-stack)
-8. [Installation](#installation)
-9. [Usage](#usage)
-10. [Impact & Benefits](#impact--benefits)
-11. [Viability & Feasibility](#viability--feasibility)
-12. [Contributing](#contributing)
-13. [References / Research](#references--research)
-14. [License](#license)
-15. [Contact](#contact)
+5. [Proposed Solution](#proposed-solution)
+6. [Benefits](#benefits)
+7. [Architecture](#architecture)
+8. [Technology Stack](#technology-stack)
+9. [Installation](#installation)
+10. [Usage](#usage)
+11. [Impact & Benefits](#impact--benefits)
+12. [Viability & Feasibility](#viability--feasibility)
+13. [Contributing](#contributing)
+14. [References / Research](#references--research)
+15. [License](#license)
+16. [Contact](#contact)
 
 # 📝 Overview  
 This project aims to develop a Digital Tip System for hospitality employees…
@@ -43,7 +44,23 @@ Our proposed solution is to develop a *Digital Tip System* that allows customers
 # Benefits  
 - Customers can tip conveniently without carrying cash.  
 - Employees receive tips directly and transparently.  
-- Businesses maintain clear records and improve employee satisfaction. 
+- Businesses maintain clear records and improve employee satisfaction.
+
+# Architecture
+![Architecture Diagram]()
+
+**Frontend:** React JS (Vite)  
+**Backend:** Python (FastAPI)  
+**Database:** MySQL / MS SQL  
+**Payment Gateway:** Razorpay API  
+**Real-Time Notifications:** WebSocket
+
+# Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/lubna2007/sih-2025-project.git
+   cd sih-2025-project
+
 
 # 🛠 Tech Stack  
 - Frontend: React.js (Vite)  
@@ -55,3 +72,23 @@ Our proposed solution is to develop a *Digital Tip System* that allows customers
 - Deployment: Vercel, GitHub  
 - Future Implementation: Flutter / React Native
   
+# Usage
+- Open the frontend in your browser.
+- Scan the QR code generated for each employee.
+- Complete the payment via UPI/Razorpay.
+- View tip history and dashboards.
+
+# Impact & Benefits
+- Motivates hospitality staff by ensuring timely and transparent tips.
+- Reduces friction for customers.
+- Hotels can analyze tip patterns and improve employee satisfaction.
+
+# Viability & Feasibility
+- Cost-effective: Uses existing digital payment infrastructure.
+- Scalable: Works across multiple hospitality setups.
+- Easy Adoption: No special hardware required, only QR codes.
+
+# References / Research
+- Tipy Do – A Digital Tipping Platform
+- Tipping Disrupted: The Multi-Stakeholder Digital Tipped Service Journey
+- View Project on GitHub
