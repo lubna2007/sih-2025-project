@@ -47,7 +47,11 @@ Our proposed solution is to develop a *Digital Tip System* that allows customers
 - Businesses maintain clear records and improve employee satisfaction.
 
 # Architecture
-![Architecture Diagram](file:///C:/Users/RAZAK/Downloads/Olive%20Green%20Doodle%20Final%20Project%20Cover%20A4%20Document.pdf)
+[View Architecture Diagram PDF](https://github.com/<username>/<repo>/blob/main/Olive%20Green%20Doodle%20Final%20Project%20Cover%20A4%20Document.pdf)
+
+![Architecture Diagram](https://raw.githubusercontent.com/<username>/<repo>/main/architecture-diagram.png)
+
+
 
 **Frontend:** React JS (Vite)  
 **Backend:** Python (FastAPI)  
