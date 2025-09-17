@@ -1,4 +1,4 @@
-# SIH-2025-project
+# 🚀 Smart India Hackathon 2025 Project
 Smart India Hackathon 2025 project on ' Digital Tip System For Hospitality Employees ' 
 
 # Table of Contents
@@ -51,8 +51,6 @@ Our proposed solution is to develop a *Digital Tip System* that allows customers
 
 ![Architecture Diagram](https://raw.githubusercontent.com/<username>/<repo>/main/architecture-diagram.png)
 
-
-
 **Frontend:** React JS (Vite)  
 **Backend:** Python (FastAPI)  
 **Database:** MySQL / MS SQL  
@@ -64,7 +62,6 @@ Our proposed solution is to develop a *Digital Tip System* that allows customers
    ```bash
    git clone https://github.com/lubna2007/sih-2025-project.git
    cd sih-2025-project
-
 
 # 🛠 Tech Stack  
 - Frontend: React.js (Vite)  
