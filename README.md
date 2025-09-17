@@ -1,6 +1,23 @@
 # SIH-2025-project
 Smart India Hackathon 2025 project on ' Digital Tip System For Hospitality Employees ' 
 
+# Table of Contents
+1. [Team](#team)
+2. [Overview](#overview)
+3. [Problem Statement](#problem-statement)
+4. [Key Features](#key-features)
+5. [Benefits](#benefits)
+6. [Architecture](#architecture)
+7. [Technology Stack](#technology-stack)
+8. [Installation](#installation)
+9. [Usage](#usage)
+10. [Impact & Benefits](#impact--benefits)
+11. [Viability & Feasibility](#viability--feasibility)
+12. [Contributing](#contributing)
+13. [References / Research](#references--research)
+14. [License](#license)
+15. [Contact](#contact)
+
 # 📝 Overview  
 This project aims to develop a Digital Tip System for hospitality employees…
 
