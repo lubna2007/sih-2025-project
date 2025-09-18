@@ -68,7 +68,7 @@ Our proposed solution is to develop a *Digital Tip System* that allows customers
    npm install
 
 4. Start the development servers:
-   # Backend
+# Backend
 uvicorn main:app --reload
 # Frontend
 npm run dev
