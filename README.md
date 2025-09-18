@@ -56,7 +56,7 @@ Our proposed solution is to develop a *Digital Tip System* that allows customers
 
 # Installation
 1. Clone the repository:
-   ```bash
+   
    git clone https://github.com/lubna2007/sih-2025-project.git
    cd sih-2025-project
    
@@ -77,7 +77,7 @@ npm run dev
 - Frontend: React.js (Vite)  
 - Backend: Python (FastAPI)  
 - Database: MySQL / MS SQL  
-- Payment Integration: Razorpay API  
+- Payment Integration: Razorpay API(Alternate Apis)
 - QR Code Generation: Python libraries or online QR generators  
 - Real-Time: WebSocket for notifications  
 - Deployment: Vercel, GitHub  
