@@ -50,6 +50,8 @@ Our proposed solution is to develop a *Digital Tip System* that allows customers
 [View Architecture Diagram PDF](https://github.com/<username>/<repo>/blob/main/Olive%20Green%20Doodle%20Final%20Project%20Cover%20A4%20Document.pdf)
 
 ![Architecture Diagram](https://raw.githubusercontent.com/<username>/<repo>/main/architecture-diagram.png)
+<img width="437" height="372" alt="image" src="https://github.com/user-attachments/assets/dd24a00c-c3aa-45f2-82b7-d9df409de686" />
+
 
 **Frontend:** React JS (Vite)  
 **Backend:** Python (FastAPI)  
