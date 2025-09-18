@@ -16,8 +16,7 @@ Smart India Hackathon 2025 project on ' Digital Tip System For Hospitality Emplo
 12. [Viability & Feasibility](#viability--feasibility)
 13. [Contributing](#contributing)
 14. [References / Research](#references--research)
-15. [License](#license)
-16. [Contact](#contact)
+
 
 # 📝 Overview  
 This project aims to develop a Digital Tip System for hospitality employees…
@@ -62,11 +61,17 @@ Our proposed solution is to develop a *Digital Tip System* that allows customers
    cd sih-2025-project
    
 2.  Install backend dependencies:
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
+3.  Install frontend dependencies:
+   cd frontend
+   npm install
 
-
-
+4. Start the development servers:
+   # Backend
+uvicorn main:app --reload
+# Frontend
+npm run dev
 
 # 🛠 Tech Stack  
 - Frontend: React.js (Vite)  
