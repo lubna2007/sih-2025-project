@@ -27,7 +27,7 @@ Theme: Miscellaneous
 Category: Software  
 
 # 👥 Team  
-Team Name: Hexa Innovators
+Team Name: Hexa Innovaters
 
 # 🛠️ Key Features  
 - QR-based tipping for each employee  
